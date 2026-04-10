@@ -14,7 +14,7 @@ window.onload = () => {
     msg.classList.remove("hidden");
     msg.classList.add("show");
 
-    const text1 = "🌸Birthday🌸\n🌸Coming🌸\n🌸Soon🌸";
+    const text1 = "Chutaadd h tuuu";
 
     let i = 0;
 
@@ -42,7 +42,7 @@ window.onload = () => {
       }, 1000);
     }
 
-    const text2 = "🌸Flowers for you🌸";
+    const text2 = "🌸bauth badaa chutadd h🌸";
 
     let j = 0;
 
