@@ -14,7 +14,7 @@ window.onload = () => {
     msg.classList.remove("hidden");
     msg.classList.add("show");
 
-    const text1 = "🌸Birthday🌸\n🌸Coming🌸\n🌸Soon🌸";
+    const text1 = "🌸Chuttad🌸\n🌸ho🌸\n🌸aapp🌸";
 
     let i = 0;
 
